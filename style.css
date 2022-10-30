@@ -1,0 +1,107 @@
+.contenido-pagina {
+  display: flex;
+  background-image: url(https://w0.peakpx.com/wallpaper/672/657/HD-wallpaper-big-city-black-and-white-cities-new-york-dark.jpg);
+  background-size: 100%;
+}
+
+.franja-izquierda,
+.contenido-pagina {
+  height: 600px;
+  padding: 0px;
+  background-color: rgba(36, 31, 32, 255);
+}
+
+.border-franja-izquiera {
+  justify-content: center;
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+  color: #fa533f;
+  font-family: 'Roboto Slab', serif;
+  border-bottom: 1px solid #4f4d4e;
+}
+
+.iconos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+}
+
+.en {
+  margin-left: 6px;
+  margin-right: 12px;
+  color: #4f4d4e;
+}
+
+.franja-final {
+
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-central {
+  margin: auto;
+  display: flex;
+  margin-left: 300px;
+  margin-top: 200px;
+  padding: 0px;
+  height: 120px;
+  width: 510px;
+}
+
+.recuadro-central {
+  margin: 0px;
+  padding: 0px;
+  background-color: #fa533f;
+  height: 120px;
+  width: 120px;
+}
+
+.texto-central {
+  width: 410px;
+}
+
+.texto-central h1 {
+  text-align: left;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 50px;
+  margin-left: 20px;
+}
+
+.centro {
+  margin: auto;
+  height: 600px;
+  width: 700px;
+}
+
+.puntos {
+  margin: auto;
+  margin-top: 150px;
+  width: 250px;
+  height: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.point {
+  margin-top: 5px;
+  background-color: #fa533f;
+  height: 15px;
+  width: 15px;
+  border-radius: 100%;
+}
+
+
+.flecha {
+  width: 32px;
+  height: 32px;
+  border: 2px solid white;
+  border-radius: 100%;
+  margin-left: 340px;
+  margin-top: 50px;
+}
+
